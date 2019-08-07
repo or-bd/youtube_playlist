@@ -1,4 +1,4 @@
-#Youtube Playlist
+# Youtube Playlist
 
 A simple shared youtube playlist (works like radio), once you add your video other clients can view / edit it with you.
 
@@ -33,6 +33,6 @@ The following command will start the node server on port 3001:
 $ npm start
 ```
 
-*NOTE: At he first execution you'll be asked to generate `token.json` using the CLI so just visit the google link and enter the code back to the CLI.*
+*NOTE: At the first execution you'll be asked to generate `token.json` using the CLI so just visit the google link and enter the code back to the CLI.*
 
-That's it! you'r ready to visit the app: http://localhost:3001.
+That's it! you'r ready to visit your app: http://localhost:3001.
