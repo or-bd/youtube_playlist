@@ -1,0 +1,23 @@
+.search-field {
+  display: flex;
+
+  input {
+    margin-right: 10px;
+    font-size: 1em;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 6px;
+  }
+
+  button {
+    border: 1px solid lightgreen;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: green;
+    color: whitesmoke;
+
+    &:active {
+      background-color: darkgreen;
+    }
+  }
+}
