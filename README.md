@@ -1,6 +1,6 @@
 # Youtube Playlist
 
-A simple shared youtube playlist (works like radio), once you add your video other clients can view / edit it with you.
+A simple shared youtube playlist (works like radio), once you add your video other clients can view and edit it with you.
 
 Demo: https://youtube.sudozone.com. 
 

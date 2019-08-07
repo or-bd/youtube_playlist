@@ -9,7 +9,7 @@ const VideoList = ({ id, title, thumbnail, duration }) => {
       <img src={thumbnail} alt={title} />
       <div className="video-info">
         <span className="video-title">{title}</span>
-        <span className="video-duration">{duration}</span>
+        <span className="video-duration">Duration: {duration}</span>
         <span className="remove-video" onClick={() => dispatch(removeVideo(id, dispatch))}>X</span>
       </div>
     </li>
