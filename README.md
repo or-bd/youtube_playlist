@@ -15,7 +15,7 @@ $ git clone https://github.com/or-bd/youtube_playlist.git
 Then install app dependencies using npm:
 
 ``` 
-$ cd youtube_playlist && npm i 
+$ cd youtube_playlist && npm i --production
 ```
 
 The next step is to generate the `credentials.json` file, follow `Step 1` at google docs -  
